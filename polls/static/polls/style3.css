@@ -1,0 +1,14 @@
+body{
+    background: bisque url("images/background3.png") repeat;
+    background-size: 150px 150px;
+    background-position: right center;
+}
+
+h1{
+    color: indianred;
+}
+
+ul{
+    text-align: center;
+  border: 1px solid indianred;
+}

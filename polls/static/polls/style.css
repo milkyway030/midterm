@@ -1,0 +1,16 @@
+body{
+    background: bisque url("images/chart.png") no-repeat;
+    background-size: 150px 150px;
+    background-position: right center;
+}
+
+ul {
+     
+     padding: 70px 0;
+     border: 1px solid indianred;
+}
+
+li a{
+
+    color: olive;
+}
